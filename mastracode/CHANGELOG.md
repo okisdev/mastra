@@ -1,5 +1,16 @@
 # mastracode
 
+## 0.16.0-alpha.6
+
+### Patch Changes
+
+- Updated Mastra Code's built-in OpenAI pack to use GPT-5.5 for plan and build mode, and added GPT-5.5-specific prompt guidance. ([#15759](https://github.com/mastra-ai/mastra/pull/15759))
+
+- Updated dependencies [[`c1ae974`](https://github.com/mastra-ai/mastra/commit/c1ae97491f6e57378ce880c3a397778c42adcdf1), [`10e1c9a`](https://github.com/mastra-ai/mastra/commit/10e1c9a6a99c14eb055d0f409b603e07af827e68), [`6c8c6c7`](https://github.com/mastra-ai/mastra/commit/6c8c6c71518394321a4692614aa4b11f3bb0a343), [`8c39f81`](https://github.com/mastra-ai/mastra/commit/8c39f815c7d06f2cd11bb099a72805a20f2ab755)]:
+  - @mastra/core@1.29.0-alpha.6
+  - @mastra/mcp@1.6.0-alpha.0
+  - @mastra/memory@1.17.2-alpha.0
+
 ## 0.16.0-alpha.5
 
 ### Patch Changes
